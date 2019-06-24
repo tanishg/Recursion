@@ -1,5 +1,5 @@
 
-// Shift all the zero's at the end from an integer array.
+// Shift all the zero's at the end from an integer array without changing the sequence of other integers.
 
 public class ShiftZero{
 
